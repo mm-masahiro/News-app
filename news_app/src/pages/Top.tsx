@@ -2,7 +2,7 @@ import React from 'react';
 
 function Top() {
 	return (
-		<h1>HogeHoge</h1>
+		<h1>News</h1>
 	)
 }
 
