@@ -1,8 +1,8 @@
-.Top {
+.top {
 	text-align: center;
 }
 
-.Top--colum__list {
+.top--colum__list {
 	list-style: none;
 	display: flex;
 	flex-direction: row;
@@ -10,7 +10,11 @@
 	padding-left: 0;
 }
 
-.Top--colum__list-contents {
+.top--colum__list-contents {
 	padding: 20px;
 	cursor: pointer;
+}
+
+.top--contents {
+	padding: 40px;
 }

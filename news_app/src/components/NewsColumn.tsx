@@ -1,9 +1,10 @@
 import React from 'react';
+import ArticleCard from './ArticleCard';
 
-function NewsColumn() {
-	return(
-		<div>ここに表示させる</div>
-	)
-}
+// function NewsColumn() {
+// 	return(
+// 		<div><ArticleCard /></div>
+// 	)
+// }
 
-export default NewsColumn;
+// export default NewsColumn;
